@@ -1,0 +1,10 @@
+//finding maximum frequency of a character
+#include<stdio.h>
+int main()
+{
+    char str[100];
+    printf("enter a string");
+    gets(str);
+
+    
+}
